@@ -24,7 +24,7 @@ export default {
             return [...prev, ...Array(curr.last_p * 100).fill(curr.id)]
         }, [])
 
-        const superBuy = ref(false)
+        // const superBuy = ref(false)
         const totalCost = ref(0)
         const bagCount = ref(10)
         const gachaCost = ref(99)
@@ -90,7 +90,7 @@ export default {
             }
         }
         return {
-            datas, superBuy, restartText, bagCount, gachaCost, totalCost, gachaCount, gachaReword, gacha1, gacha10, restartGacha
+            datas, restartText, bagCount, gachaCost, totalCost, gachaCount, gachaReword, gacha1, gacha10, restartGacha
         }
     },
     template: `
@@ -99,7 +99,6 @@ export default {
             <div class="row align-items-center" style="height: 35%;">
                 <div class="col-2"></div>
                 <div class="col-3">目前花費： <span style="color: green;">{{ totalCost }}</span></div>
-                <div class="col-5"><input type="checkbox" :value="superBuy">&nbsp;&nbsp;我要上頭!</div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-4 d-flex justify-content-center">
