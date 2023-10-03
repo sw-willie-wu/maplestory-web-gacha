@@ -1,0 +1,275 @@
+[
+    {
+        "id": 0,
+        "name": "變形貓貓蟲咖波武器",
+        "rank": "S",
+        "first_p": 0.15,
+        "last_p": 0.4
+    },
+    {
+        "id": 1,
+        "name": "長長的咖波合體椅子(5人)",
+        "rank": "S",
+        "first_p": 0.3,
+        "last_p": 0.5
+    },
+    {
+        "id": 2,
+        "name": "咖波方塊椅子咪卡",
+        "rank": "S",
+        "first_p": 0.5,
+        "last_p": 0.9
+    },
+    {
+        "id": 3,
+        "name": "咖波方塊椅子狗狗",
+        "rank": "S",
+        "first_p": 0.5,
+        "last_p": 0.9
+    },
+    {
+        "id": 4,
+        "name": "咖波方塊椅子咖波",
+        "rank": "S",
+        "first_p": 0.5,
+        "last_p": 0.9
+    },
+    {
+        "id": 5,
+        "name": "咖波方塊椅子黑毛蟲",
+        "rank": "S",
+        "first_p": 0.5,
+        "last_p": 0.9
+    },
+    {
+        "id": 6,
+        "name": "咖波方塊椅奶泡貓",
+        "rank": "S",
+        "first_p": 0.5,
+        "last_p": 0.9
+    },
+    {
+        "id": 7,
+        "name": "咖波方塊椅子兔兔",
+        "rank": "S",
+        "first_p": 0.5,
+        "last_p": 0.9
+    },
+    {
+        "id": 8,
+        "name": "貓貓蟲咖波貼圖(咖波筋價讚)",
+        "rank": "S",
+        "first_p": 0.4,
+        "last_p": 1
+    },
+    {
+        "id": 9,
+        "name": "貓貓蟲咖波貼圖(盯~)",
+        "rank": "S",
+        "first_p": 0.4,
+        "last_p": 1
+    },
+    {
+        "id": 10,
+        "name": "眨眼咖波",
+        "rank": "S",
+        "first_p": 0.4,
+        "last_p": 0.7
+    },
+    {
+        "id": 11,
+        "name": "混色染髮交換券",
+        "rank": "A",
+        "first_p": 0.8,
+        "last_p": 12
+    },
+    {
+        "id": 12,
+        "name": "225~249等經驗2倍1回使用券",
+        "rank": "A",
+        "first_p": 0.75,
+        "last_p": 12
+    },
+    {
+        "id": 13,
+        "name": "200~224等經驗2倍1回使用券",
+        "rank": "A",
+        "first_p": 0.75,
+        "last_p": 12
+    },
+    {
+        "id": 14,
+        "name": "199等以下經驗2倍1回使用券",
+        "rank": "A",
+        "first_p": 0.75,
+        "last_p": 12
+    },
+    {
+        "id": 15,
+        "name": "保護卷軸",
+        "rank": "A",
+        "first_p": 1.5,
+        "last_p": 10.5
+    },
+    {
+        "id": 16,
+        "name": "尊貴保護卷軸",
+        "rank": "A",
+        "first_p": 1.5,
+        "last_p": 10.5
+    },
+    {
+        "id": 17,
+        "name": "白金神奇剪刀",
+        "rank": "A",
+        "first_p": 0.8,
+        "last_p": 9
+    },
+    {
+        "id": 18,
+        "name": "時裝神奇剪刀",
+        "rank": "A",
+        "first_p": 0.3,
+        "last_p": 2
+    },
+    {
+        "id": 19,
+        "name": "神秘鐵砧",
+        "rank": "A",
+        "first_p": 1,
+        "last_p": 9.5
+    },
+    {
+        "id": 20,
+        "name": "時裝神秘鐵砧",
+        "rank": "A",
+        "first_p": 0.2,
+        "last_p": 1.5
+    },
+    {
+        "id": 21,
+        "name": "超性能擴音器",
+        "rank": "B",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 22,
+        "name": "安全盾牌卷軸",
+        "rank": "B",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 23,
+        "name": "寵物強化箱",
+        "rank": "B",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 24,
+        "name": "驚訝樂觀的混沌卷軸40%",
+        "rank": "B",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 25,
+        "name": "樂觀的混沌卷軸50%",
+        "rank": "B",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 26,
+        "name": "超級瞬移之石(7天)",
+        "rank": "B",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 27,
+        "name": "稀有潛在能力卷軸80%",
+        "rank": "B",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 28,
+        "name": "黃金鐵鎚50%(2個)",
+        "rank": "B",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 29,
+        "name": "星光裝備保護卷軸",
+        "rank": "B",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 30,
+        "name": "奇幻傳播者",
+        "rank": "C",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 31,
+        "name": "附加潛在能力賦予卷軸50%",
+        "rank": "C",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 32,
+        "name": "驚訝的混沌卷軸60%",
+        "rank": "C",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 33,
+        "name": "卷軸保護卡",
+        "rank": "C",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 34,
+        "name": "星光安全盾牌卷軸",
+        "rank": "C",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 35,
+        "name": "封印之鎖",
+        "rank": "C",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 36,
+        "name": "星光卷軸保護卡",
+        "rank": "C",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 37,
+        "name": "復仇女神的紡車",
+        "rank": "C",
+        "first_p": 4.5,
+        "last_p": 0
+    },
+    {
+        "id": 38,
+        "name": "超級藥水(100個)",
+        "rank": "C",
+        "first_p": 4.5,
+        "last_p": 0
+    }
+]
