@@ -1,5 +1,6 @@
 import { ref, reactive } from 'vue'
-import items from '../items.json' assert { type: "json" }
+const item_json = await fetch('../items.json')
+const items = await item_json.json()
 
 export default {
     setup() {
